@@ -1,6 +1,6 @@
 # E-project
 
-Star Organic farm from the year 1988. it is involved in trading and manufacturing a wide range of Products and spices to the consumers all around the global market. Company has variety of products of Nutritious cereals, Pulses, Spices, Cooking Oils, Fruit Pulps, Agro Products, Oils, Wheat and Wheat Flour, Rice and Rice products and so on.
+ from the year 1988. it is involved in trading and manufacturing a wide range of Products and spices to the consumers all around the global market. Company has variety of products of Nutritious cereals, Pulses, Spices, Cooking Oils, Fruit Pulps, Agro Products, Oils, Wheat and Wheat Flour, Rice and Rice products and so on.
 Requirement Specification:
   The Web site is to be created based on the following requirements.
     1) The Home Page should be created making use of Sections with a suitable logo
@@ -20,5 +20,5 @@ Requirement Specification:
     1) Each group member will pull the files from github on their individual branches
     2) after doing changes to the files your code must be pushed to your own branch
     3) i'll look through your code and then merge it to the main file if it has no errors.
-
+Star Organic farm
     

@@ -93,8 +93,9 @@ h6 {
 ------------------------------*/
 .php-email-form .error-message {
   display: none;
+dit   justify-content: center;
   background: #df1529;
-  color: #ffffff;
+  color: #00fff2;
   text-align: left;
   padding: 15px;
   margin-bottom: 24px;
@@ -103,6 +104,8 @@ h6 {
 
 .php-email-form .sent-message {
   display: none;
+  align-content: center;
+  justify-content: center;
   color: #ffffff;
   background: #059652;
   text-align: center;
@@ -112,7 +115,8 @@ h6 {
 }
 
 .php-email-form .loading {
-  display: none;
+  justify-content: center;
+    display: none;
   background: var(--surface-color);
   text-align: center;
   padding: 15px;
@@ -121,6 +125,7 @@ h6 {
 
 .php-email-form .loading:before {
   content: "";
+
   display: inline-block;
   border-radius: 50%;
   width: 24px;
@@ -502,11 +507,21 @@ h6 {
 /*--------------------------------------------------------------
 # Global Footer
 --------------------------------------------------------------*/
+
+.ayehye{
+   
+  font-family: "BBH Bartle", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+ 
 .footer {
   color: var(--default-color);
   background: var(--background-color);
   font-size: 15px;
-  padding: 80px 0 0;
+  padding: 50px 0 0;
   position: relative;
   border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
 }
@@ -521,7 +536,7 @@ h6 {
 .footer .footer-brand h1 .sitename,
 .footer .footer-brand .logo .sitename {
   font-family: var(--heading-font);
-  font-size: 26px;
+  font-size: 30px;
   letter-spacing: 0.8px;
   color: var(--heading-color);
 }
